@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+pymc3
+matplotlib
+arviz
+python-dateutil
+time
+riskfolio-Lib
+scikit-optimize
+seaborn
