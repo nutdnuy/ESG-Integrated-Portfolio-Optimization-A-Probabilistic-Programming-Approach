@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-pymc3
+pymc
 matplotlib
 arviz
 python-dateutil
